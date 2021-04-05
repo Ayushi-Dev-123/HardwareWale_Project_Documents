@@ -1,0 +1,150 @@
+Visme project presentation link 
+https://my.visme.co/view/90m0oxwk-64r50vkjvym62pz1
+https://my.visme.co/editor/dlRWRlZXNENoSlFxMWJzWlVnQXp1dz09OjqmXet8xIpgop2G7MwjNLrG/Modern
+.........................................................................................
+
+Moqups new Login Activity WireFrame
+https://app.moqups.com/unsaved/54d122cc/edit/page/ad64222d5
+
+Moqups complete wireframe
+https://app.moqups.com/unsaved/d759ee9d/edit/page/af7444a42
+..........................................................................................
+
+(Websequential diagram)link
+https://meet.google.com/linkredirect?authuser=0&dest=https%3A%2F%2Fwww.websequencediagrams.com%2F 
+...........................................................................................
+connecting Spring Boot to Firebase 
+
+https://medium.com/techwasti/spring-boot-firebase-crud-b0afab27b26e#:~:text=Create%20a%20Firebase%20project%20in%20the%20Firebase%20console%3A&text=Hit%20the%20https%3A%2F%2Fconsole,the%20%E2%80%9CCREATE%20PROJECT%E2%80%9D%20button.
+.............................................................................................
+  
+  email : techdudes420@gmail.com
+  git password : T3ch@123456
+ 
+  g4hardwareapp@gmail.com
+  email password : G4@123456
+
+  Hardwarewale@4
+  aayushisethi100@gmail.com
+  git : 
+       username : Ayushi-Dev-123
+       password : Akshat27!
+
+  Github Link = https://github.com/Group-4HardwareApp/hardwaremartapi
+ 
+  Gmail credential
+     email    : techdudes420@gmail.com
+     password : techdudes@1234
+      
+  Github
+      username : Group-4HardwareApp
+      password : group4hardwareapp
+   
+     -->  git remote add origin https://github.com/Group-4HardwareApp/hardwaremartapi.git
+     -->  git remote add origin https://github.com/Group-4HardwareApp/HardwareWale-Buyer.git
+     
+           https://github.com/Group-4HardwareApp/HardwareWale-Buyer.git
+...............................................................................................
+   
+  Heroku Credentials
+      https://hardware-wale.herokuapp.com/category/
+      
+      email : indorikepohe@gmail.com
+      id passwaord : akshat27!
+      heroku password : indorikepohe@123
+..........................................................................................
+
+     Aman Meeting link   https://meet.google.com/adt-twnq-ate  
+
+     My Meeting link     https://meet.google.com/fvr-fonh-eds 
+.........................................................................................
+
+    commands
+
+    sudo kill -9 `sudo lsof -t -i:8080`
+
+    sudo kill -9 'sudo lsof -t -i:8080'
+
+    netstat -ano | findstr 8080
+
+    1)  netstat -ano | findstr :<PORT>
+    2)  taskkill /PID <PID> /F
+       taskkill /PID 7344 /F
+............................................................................................
+String imageUrl = "https://firebasestorage.googleapis.com/v0/b/localhardwaremartapi.appspot.com/o/"+convertedFile+"?alt=media&token=3434434343434dfdf";
+
+.............................................................................................
+
+Free Logo Design = https://editor.freelogodesign.org/?lang=en&logo=24a82866-4dec-497f-a949-4c80b7b17969&companyname=HardwareWale&category=21
+                   https://www.logodesign.net/logo-design/0/MjU4/SGFyZHdhcmUgV2FsZQ%253D%253D/
+.............................................................................................
+    * View Flipper Link
+    1.  https://www.journaldev.com/10429/android-viewflipper-example-tutorial
+    2.  https://abhiandroid.com/ui/viewflipper
+    3. --> https://www.tutorialspoint.com/how-to-use-viewflipper-in-android  
+    4. --> https://stackoverflow.com/questions/6869180/how-to-use-view-flipper-with-three-layouts
+    5.  https://stackoverflow.com/questions/8908862/how-to-set-dynamic-images-to-viewflipper-in-android (dyanamic images)  
+    6.  https://tutorialwing.com/create-android-viewflipper-programmatically-in-android/ 
+.............................................................................................
+    * Horizontal Scroll View Link
+    1.  https://stackoverflow.com/questions/18656949/how-to-implement-horizontalscrollview-like-gallery
+    2.  https://www.javatpoint.com/android-scrollview-horizontal
+    3.  https://www.tutorialspoint.com/how-to-implement-horizontalscrollview-like-gallery-in-android
+.............................................................................................
+Dependency Links  
+   
+   * Retrofit -->  https://futurestud.io/tutorials/retrofit-getting-started-and-android-client
+       implementation 'com.squareup.retrofit2:retrofit:2.5.0'
+       implementation 'com.squareup.retrofit2:converter-gson:2.5.0'
+    
+   * Liquid swipe
+       implementation 'com.cuberto:liquid-swipe:1.0.0'
+       implementation "androidx.core:core-ktx:1.0.1"
+       implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk7:$kotlin_version"
+       
+   * Circular Image View 	
+     -->  implementation 'de.hdodenhof:circleimageview:3.1.0'
+     -->  implementation 'com.mikhaellopez:circularimageview:4.2.0'
+
+   * Picasso
+       implementation 'com.squareup.picasso:picasso:2.71828'
+
+   * Image Cropper
+       implementation 'com.theartofdev.edmodo:android-image-cropper:2.8.+'   
+
+   * Text drawable forname initial
+       compile 'com.amulyakhare:com.amulyakhare.textdrawable:1.0.1
+
+   * StoriesProgressVie
+       implementation 'com.github.shts:StoriesProgressView:3.0.0'
+
+   * Glide dependency
+       implementation 'com.github.bumptech.glide:glide:4.11.0'
+       annotationProcessor 'com.github.bumptech.glide:compiler:4.11.0'
+
+   * Shimmer
+       implementation 'com.facebook.shimmer:shimmer:0.5.0'
+
+   * RVCV
+       implementation 'androidx.recyclerview:recyclerview:1.1.0'
+       implementation 'androidx.cardview:cardview:1.0.0'
+
+   * Material design
+       implementation 'com.google.android.material:material:1.1.0'
+       implementation 'com.google.android.material:material:1.2.0'
+       implementation 'com.google.android.material:material:1.2.1'
+       implementation 'com.android.support:design:25.0.0'
+
+   * Pallete bitmap
+       implementation 'androidx.palette:palette:1.0.0'
+
+..........................................................................................
+   
+java mcqs : 
+https://data-flair.training/blogs/java-mcq-java/ 
+
+mcqs : https://www.sanfoundry.com/dynamic-programming-problems-solutions/
+
+resume : https://www.resumemakeronline.com/resume-builder/index.html#/create/dwello
+
+Firebase interview questions : https://www.interviewgig.com/firebase-interview-questions/   
